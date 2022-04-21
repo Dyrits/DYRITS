@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dyrits&label=Profile%20views&color=0e75b6&style=flat" alt="dyrits" /> </p>
 
 <h2 align="center">GitHub</h2>
-<h3 align="center"><a href="https://gist.github.com/Dyrits">Gists</a><br>(Projects & Mini-Projects: ~25)</h3>
+<h3 align="center"><a href="https://gist.github.com/Dyrits">Gists</a><br>(Projects & Mini-Projects: ~35)</h3>
 <h3 align="center"><a href="https://github.com/Dyrits?tab=repositoriess">Repositories</a><br>(Projects & Mini-Projects: 150+)</h3>
 <h3 align="center">Trophies</h3>
 
