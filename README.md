@@ -8,7 +8,7 @@
 
 <h2 align="center">GitHub</h2>
 <h3 align="center"><a href="https://gist.github.com/Dyrits">Gists</a><br>(Projects & Mini-Projects: ~55)</h3>
-<h3 align="center"><a href="https://github.com/Dyrits?tab=repositoriess">Repositories</a><br>(Projects & Mini-Projects: 150+)</h3>
+<h3 align="center"><a href="https://github.com/Dyrits?tab=repositoriess">Repositories</a><br>(Projects & Mini-Projects: 200+)</h3>
 <h3 align="center">Trophies</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dyrits" alt="dyrits" /></a> </p>
