@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dyrits&label=Profile%20views&color=0e75b6&style=flat" alt="dyrits" /></p>
 
-<h2 align="center"><a href="https://dyrits.notion.site/675694ac25c94cc6b99c109a66159dfd?v=8f7508c3ff83412a92c40d78d51c427a">Learning calendar [V2]</a>(V3 en préparation)</h2>
+<h2 align="center"><a href="https://dyrits.notion.site/675694ac25c94cc6b99c109a66159dfd?v=8f7508c3ff83412a92c40d78d51c427a">Learning calendar [V2]</a> (V3 Coming Soon)</h2>
 
 
 <h2 align="center">GitHub</h2>
