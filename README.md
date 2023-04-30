@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dyrits&label=Profile%20views&color=0e75b6&style=flat" alt="dyrits" /></p>
 
-<h2 align="center"><a href="https://dyrits.notion.site/5385a23eeca64ef7bf9204a2895ced5e?v=2a52a29bf0a64e99bc8a87866992be79">Learning calendar [V3]</a> (Work in progress)</h2>
+<h2 align="center"><a href="https://dyrits.notion.site/5385a23eeca64ef7bf9204a2895ced5e?v=2a52a29bf0a64e99bc8a87866992be79">Activity calendar</a> (Work in progress)</h2>
 <p  align="center">I use this calendar to keep up to date, and refresh my knowledges and skills on a daily basis.<p>
 
 
