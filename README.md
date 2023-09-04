@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dyrits&label=Profile%20views&color=0e75b6&style=flat" alt="dyrits" /></p>
 
-<h2 align="center"><a href="https://dyrits.notion.site/dyrits/4f33fcb770cc4f2f8cf9eff457a017ab?v=b831fef3e5254832aacdce405327e6dd">Activity calendar</a> (Work in progress)</h2>
+<h2 align="center"><a href="https://dyrits.notion.site/dyrits/4f33fcb770cc4f2f8cf9eff457a017ab?v=b831fef3e5254832aacdce405327e6dd">Activity calendar</h2>
 <p  align="center">I use this calendar to keep up to date, and refresh my knowledges and skills on a daily basis.<p>
 
 
@@ -33,11 +33,14 @@
  <a href="https://www.google.com/chrome/" target="_blank" rel="noreferrer" title="Google Chrome"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/></a>
  <a href="https://codepen.io/" target="_blank" rel="noreferrer" title="Codepen"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="codepen" width="40" height="40"/></a>
  <a href="https://getcomposer.org/" target="_blank" rel="noreferrer" title="Composer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c-sharp" width="40" height="40"/></a>
+ <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c-sharp" width="40" height="40"/></a>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+ <a href="https://dart.dev/" target="_blank" rel="noreferrer" title="Dart"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/></a>
+ <a href="https://deno.com/" target="_blank" rel="noreferrer" title="Deno"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" alt="dart" width="40" height="40"/></a>
  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40" /></a>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
- <a href="https://www.doctrine-project.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original.svg" alt="doctrine" width="40" height="40"/></a>
+ <a href="https://www.doctrine-project.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original.svg" alt="doctrine" width="40" height="40"/></a
+ <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/></a>
  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="digital-ocean" width="40" height="40"/></a>
  <a href="https://eslint.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="eslintn" width="40" height="40"/></a>
  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
