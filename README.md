@@ -12,23 +12,16 @@
 <h3 align="center"><a href="https://github.com/Dyrits?tab=repositoriess">Repositories</a><br>(Projects & Mini-Projects: 200+)</h3>
 <p  align="center">Most projects have been created and are used for educational purposes.</p>
 
-<details align="center"><summary>However, you will find different kinds of repositories on my account:</summary>
-
--⁠ ⁠*Educational*: Projects designed to teach or demonstrate specific concepts, technologies, or methodologies. These projects should come with detailed documentation and examples (but that's usually not always the case).
-
-- ⁠*Personal*: Projects created for personal use or interests. These could be anything from hobby projects to tools you find useful in your day-to-day life.
-
--⁠ ⁠*Refresher*: Projects aimed at refreshing or updating knowledge and skills in a particular area. These can be simple exercises or comprehensive projects revisiting concepts already learned before.
-
--⁠ ⁠*Exploratory*: Projects that involve experimenting with new technologies, techniques, or ideas. These projects are typically more open-ended and focused on discovery and learning.
-
--⁠ ⁠*Professional*: Projects done for work or as part of your professional development. These could include client projects, portfolio pieces, or contributions to open source.
-
+<details align="center"><summary>Types of projects:</summary>
+  
+- *Educational*: Projects designed to teach or demonstrate specific concepts, technologies, or methodologies. These projects should come with detailed documentation and examples (but that's usually not always the case).
+- *Personal*: Projects created for personal use or interests. These could be anything from hobby projects to tools you find useful in your day-to-day life.
+- ⁠*Refresher*: Projects aimed at refreshing or updating knowledge and skills in a particular area. These can be simple exercises or comprehensive projects revisiting concepts already learned before.
+- ⁠*Exploratory*: Projects that involve experimenting with new technologies, techniques, or ideas. These projects are typically more open-ended and focused on discovery and learning.
+- *Professional*: Projects done for work or as part of your professional development. These could include client projects, portfolio pieces, or contributions to open source.
 - ⁠*Collaborative*: Projects where multiple people are contributing. These can be open source projects, team projects, or any other type of collaborative effort.
-
--⁠ ⁠*Prototype*: Projects that are in an early stage of development. These are often used to test ideas and gather feedback before committing to a full-scale implementation.
-
--⁠ ⁠*Template*: Projects that serve as a starting point for other projects. These often include a basic setup and can be used as a blueprint for similar projects.
+- *Prototype*: Projects that are in an early stage of development. These are often used to test ideas and gather feedback before committing to a full-scale implementation.
+- ⁠*Template*: Projects that serve as a starting point for other projects. These often include a basic setup and can be used as a blueprint for similar projects.
 
 </details>
 
