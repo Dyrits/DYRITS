@@ -12,7 +12,7 @@
 <h3 align="center"><a href="https://github.com/Dyrits?tab=repositoriess">Repositories</a><br>(Projects & Mini-Projects: 200+)</h3>
 <p  align="center">Most projects have been created and are used for educational purposes.</p>
 
-<details><summary>However, you will find different kinds of repositories on my account:</summary>
+<details align="center"><summary>However, you will find different kinds of repositories on my account:</summary>
 
 -⁠ ⁠*Educational*: Projects designed to teach or demonstrate specific concepts, technologies, or methodologies. These projects should come with detailed documentation and examples (but that's usually not always the case).
 
