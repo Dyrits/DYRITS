@@ -1,5 +1,5 @@
 <h1 align="center">Dylan J. Gerrits</h1>
-<h3 align="center">Full-Stack Developer | Software Architect</h3>
+<h3 align="center">Full-Stack Developer | Software Architect | Teacher and mentor in Computer Science </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dyrits&label=Profile%20views&color=0e75b6&style=flat" alt="dyrits" /></p>
 
