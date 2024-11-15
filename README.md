@@ -13,6 +13,8 @@
 <p  align="center">Most projects have been created and are used for educational purposes.</p>
 
 <details align="center"><summary>Types of projects:</summary>
+
+<div align="left">
   
 - *Educational*: Projects designed to teach or demonstrate specific concepts, technologies, or methodologies. These projects should come with detailed documentation and examples (but that's usually not always the case).
 - *Personal*: Projects created for personal use or interests. These could be anything from hobby projects to tools you find useful in your day-to-day life.
@@ -22,6 +24,8 @@
 - ⁠*Collaborative*: Projects where multiple people are contributing. These can be open source projects, team projects, or any other type of collaborative effort.
 - *Prototype*: Projects that are in an early stage of development. These are often used to test ideas and gather feedback before committing to a full-scale implementation.
 - ⁠*Template*: Projects that serve as a starting point for other projects. These often include a basic setup and can be used as a blueprint for similar projects.
+
+</div>
 
 </details>
 
