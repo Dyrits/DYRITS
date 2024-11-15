@@ -14,7 +14,7 @@
 
 <details align="center"><summary>Types of projects:</summary>
 
-<div align="left">
+<div align="justify">
   
 - *Educational*: Projects designed to teach or demonstrate specific concepts, technologies, or methodologies. These projects should come with detailed documentation and examples (but that's usually not always the case).
 - *Personal*: Projects created for personal use or interests. These could be anything from hobby projects to tools you find useful in your day-to-day life.
