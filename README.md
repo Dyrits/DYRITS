@@ -3,9 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dyrits&label=Profile%20views&color=0e75b6&style=flat" alt="dyrits" /></p>
 
-<h2 align="center"><a href="https://dyrits.notion.site/dyrits/4f33fcb770cc4f2f8cf9eff457a017ab?v=b831fef3e5254832aacdce405327e6dd">Activity calendar</h2>
-<p  align="center">I use this calendar to keep up to date, and refresh my knowledges and skills on a daily basis.<p>
+<h2 align="center"><a href="https://dyrits.notion.site/activity-tracker?v=1338406f921880bfbaf5000cf918a7dc&pvs=4">Activity tracker</h2>
+<p  align="center">I use this tracker to keep up to date, and refresh my knowledges and skills on a daily basis.<p>
 
+<h2 align="center"><a href="https://dyrits.notion.site/professional-profile">Professional profile</h2>
 
 <h2 align="center">GitHub</h2>
 <h3 align="center"><a href="https://gist.github.com/Dyrits">Gists</a><br>(Projects & Mini-Projects: ~80)</h3>
