@@ -16,7 +16,8 @@
 <details align="center"><summary>Types of projects:</summary>
 
 <div align="justify">
-  
+
+- *Technical assessment*: Projects created specifically for job interviews, coding challenges, or technical evaluations. These projects demonstrate technical proficiency, problem-solving abilities, and coding standards within defined constraints and evaluation criteria.
 - *Educational*: Projects designed to teach or demonstrate specific concepts, technologies, or methodologies. These projects should come with detailed documentation and examples (but that's usually not always the case).
 - *Personal*: Projects created for personal use or interests. These could be anything from hobby projects to tools you find useful in your day-to-day life.
 - ⁠*Refresher*: Projects aimed at refreshing or updating knowledge and skills in a particular area. These can be simple exercises or comprehensive projects revisiting concepts already learned before.
