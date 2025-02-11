@@ -38,7 +38,6 @@
 <h3 align="center">Statistics</h3>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyrits&show_icons=true&locale=en" alt="dyrits" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dyrits&" alt="dyrits" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyrits&show_icons=true&locale=en&layout=compact" alt="dyrits" /></p>
 
 <h2 align="center">Contact</h2>
