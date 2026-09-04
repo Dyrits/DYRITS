@@ -1,6 +1,12 @@
 name: Update profile metrics
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - github-metrics.svg
+      - language-metrics.svg
   schedule:
     - cron: "15 3 * * *"
   workflow_dispatch:
