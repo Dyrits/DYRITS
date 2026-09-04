@@ -9,16 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://dyrits.notion.site/professional-profile"><strong>Professional Profile</strong></a>
-  ·
-  <a href="https://dyrits.notion.site/activity-tracker"><strong>Activity Tracker</strong></a>
-  ·
-  <a href="https://gist.github.com/Dyrits"><strong>Gists</strong></a>
-  ·
-  <a href="https://github.com/Dyrits?tab=repositories"><strong>Repositories</strong></a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=dyrits&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view counter" />
 </p>
 
@@ -58,28 +48,21 @@ The labels below explain how I classify them.
 | Status | Meaning |
 | --- | --- |
 | **Planned** | The project is intended or approved, but development has not started. |
-| **Work in Progress** | The project is actively being developed. |
-| **On Hold** | Development is temporarily paused and may resume later. |
+| **WIP (Work In Progress)** | The project is actively being developed. |
+| **On hold** | Development is temporarily paused and may resume later. |
 | **Stable** | The project is reliable and usable, although further improvements may be made. |
 | **Completed** | The project is finished and meets its intended goals. |
 | **Archived** | The project is no longer actively developed or maintained. |
 
 </details>
 
-## GitHub highlights
+## Explore my work
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dyrits&no-frame=true&no-bg=true&margin-w=8" alt="Dylan's GitHub trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dyrits&show_icons=true&locale=en&hide_border=true" alt="Dylan's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dyrits&locale=en&layout=compact&hide_border=true" alt="Languages used across Dylan's public repositories" />
-</p>
-
-<p align="center"><sub>Language statistics reflect public repository data and do not represent proficiency.</sub></p>
+| Collection | What you will find |
+| --- | --- |
+| [**Repositories**](https://github.com/Dyrits?tab=repositories) | More than 200 projects and mini-projects spanning education, experimentation, professional development, and personal interests. |
+| [**Gists**](https://gist.github.com/Dyrits) | Approximately 80 focused examples, snippets, exercises, and technical notes. |
+| [**Activity tracker**](https://dyrits.notion.site/activity-tracker) | A record of the topics and skills I revisit, explore, and develop over time. |
 
 ## Connect
 
