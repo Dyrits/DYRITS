@@ -68,7 +68,6 @@ The labels below explain how I classify them.
 | --- | --- |
 | [**Repositories**](https://github.com/Dyrits?tab=repositories) | More than 200 projects and mini-projects spanning education, experimentation, professional development, and personal interests. |
 | [**Gists**](https://gist.github.com/Dyrits) | Approximately 80 focused examples, snippets, exercises, and technical notes. |
-| [**Activity tracker**](https://dyrits.notion.site/activity-tracker) | A record of the topics and skills I revisit, explore, and develop over time. |
 
 ## Connect
 
