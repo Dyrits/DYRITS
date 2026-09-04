@@ -62,6 +62,10 @@ The labels below explain how I classify them.
   <img src="./github-metrics.svg" alt="Dylan's GitHub activity metrics" width="100%" />
 </p>
 
+<p align="center">
+  <img src="./language-metrics.svg" alt="Languages used across Dylan's public repositories" width="100%" />
+</p>
+
 ## Explore my work
 
 | Collection | What you will find |
