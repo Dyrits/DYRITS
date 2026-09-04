@@ -1,46 +1,90 @@
-<h1 align="center">Dylan J. Gerrits</h1>
-<h3 align="center">Full-Stack Developer | Software Architect | Teacher and mentor in Computer Science </h3>
+<h1 align="center">Hi, I'm Dylan J. Gerrits 👋</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dyrits&label=Profile%20views&color=0e75b6&style=flat" alt="dyrits" /></p>
+<p align="center">
+  <strong>Full-Stack Developer · Software Architect · Computer Science Teacher & Mentor</strong>
+</p>
 
-<h2 align="center"><a href="https://dyrits.notion.site/professional-profile">Professional profile</h2>
-  
-<h3 align="center"><a href="https://dyrits.notion.site/activity-tracker">Activity tracker</h3>
-<p  align="center">I use this tracker to keep up to date, and refresh my knowledges and skills on a daily basis.<p>
+<p align="center">
+  I build software, explore technologies, and turn what I learn into practical resources for others.
+</p>
 
-<h2 align="center">GitHub</h2>
-<h3 align="center"><a href="https://gist.github.com/Dyrits">Gists</a><br>(Projects & Mini-Projects: ~80)</h3>
-<h3 align="center"><a href="https://github.com/Dyrits?tab=repositoriess">Repositories</a><br>(Projects & Mini-Projects: 200+)</h3>
-<p  align="center">Most projects have been created and are used for educational purposes.</p>
+<p align="center">
+  <a href="https://dyrits.notion.site/professional-profile"><strong>Professional Profile</strong></a>
+  ·
+  <a href="https://dyrits.notion.site/activity-tracker"><strong>Activity Tracker</strong></a>
+  ·
+  <a href="https://gist.github.com/Dyrits"><strong>Gists</strong></a>
+  ·
+  <a href="https://github.com/Dyrits?tab=repositories"><strong>Repositories</strong></a>
+</p>
 
-<details align="center"><summary>Types of projects:</summary>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dyrits&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view counter" />
+</p>
 
-<div align="justify">
+## About me
 
-- *Assessment*: Projects created specifically for job interviews, coding challenges, or technical evaluations. These projects demonstrate technical proficiency, problem-solving abilities, and coding standards within defined constraints and evaluation criteria.
-- *Educational*: Projects designed to teach or demonstrate specific concepts, technologies, or methodologies. These projects should come with detailed documentation and examples (but that's usually not always the case).
-- *Personal*: Projects created for personal use or interests. These could be anything from hobby projects to tools you find useful in your day-to-day life.
-- ⁠*Refresher*: Projects aimed at refreshing or updating knowledge and skills in a particular area. These can be simple exercises or comprehensive projects revisiting concepts already learned before.
-- ⁠*Exploratory*: Projects that involve experimenting with new technologies, techniques, or ideas. These projects are typically more open-ended and focused on discovery and learning.
-- *Professional*: Projects done for work or as part of your professional development. These could include client projects, portfolio pieces, or contributions to open source.
-- ⁠*Collaborative*: Projects where multiple people are contributing. These can be open source projects, team projects, or any other type of collaborative effort.
-- *Prototype*: Projects that are in an early stage of development. These are often used to test ideas and gather feedback before committing to a full-scale implementation.
-- ⁠*Template*: Projects that serve as a starting point for other projects. These often include a basic setup and can be used as a blueprint for similar projects.
+- 💻 I work across full-stack development and software architecture.
+- 🎓 I teach and mentor in computer science.
+- 🧭 I use my [activity tracker](https://dyrits.notion.site/activity-tracker) to keep my knowledge current and develop my skills continuously.
+- 🧪 Most of my repositories are practical experiments, learning resources, demonstrations, or teaching projects.
+- 📚 My GitHub includes more than 200 projects and mini-projects, plus approximately 80 [Gists](https://gist.github.com/Dyrits).
 
-</div>
+## Project catalog
+
+My repositories serve different goals and represent different stages of development.
+The labels below explain how I classify them.
+
+<details>
+<summary><strong>Project types</strong></summary>
+
+| Type | Purpose |
+| --- | --- |
+| **Assessment** | Coding challenges, technical evaluations, and interview exercises created within defined constraints. |
+| **Educational** | Examples and resources designed to teach or demonstrate concepts, technologies, and practices. |
+| **Personal** | Tools and projects created for my own interests or day-to-day needs. |
+| **Refresher** | Exercises used to revisit, reinforce, or update existing knowledge. |
+| **Exploratory** | Experiments with new technologies, techniques, and ideas. |
+| **Professional** | Work-related projects, professional-development work, portfolio pieces, and open-source contributions. |
+| **Collaborative** | Projects developed with other contributors. |
+| **Prototype** | Early implementations used to test an idea and gather feedback. |
+| **Template** | Reusable foundations intended to accelerate similar projects. |
 
 </details>
 
-<h3 align="center">Trophies</h3>
+<details>
+<summary><strong>Project statuses</strong></summary>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dyrits" alt="dyrits" /></a> </p>
+| Status | Meaning |
+| --- | --- |
+| **Planned** | The project is intended or approved, but development has not started. |
+| **Work in Progress** | The project is actively being developed. |
+| **On Hold** | Development is temporarily paused and may resume later. |
+| **Stable** | The project is reliable and usable, although further improvements may be made. |
+| **Completed** | The project is finished and meets its intended goals. |
+| **Archived** | The project is no longer actively developed or maintained. |
 
-<h3 align="center">Statistics</h3>
+</details>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyrits&show_icons=true&locale=en" alt="dyrits" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyrits&show_icons=true&locale=en&layout=compact" alt="dyrits" /></p>
+## GitHub highlights
 
-<h2 align="center">Contact</h2>
 <p align="center">
-<a href="https://linkedin.com/in/dyrits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dyrits" height="30" width="40" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dyrits&no-frame=true&no-bg=true&margin-w=8" alt="Dylan's GitHub trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dyrits&show_icons=true&locale=en&hide_border=true" alt="Dylan's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dyrits&locale=en&layout=compact&hide_border=true" alt="Languages used across Dylan's public repositories" />
+</p>
+
+<p align="center"><sub>Language statistics reflect public repository data and do not represent proficiency.</sub></p>
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dyrits/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Dylan on LinkedIn" />
+  </a>
 </p>
