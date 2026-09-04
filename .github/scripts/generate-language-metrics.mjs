@@ -1,7 +1,8 @@
-import { writeFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 
 const username = process.env.GITHUB_USERNAME;
 const token = process.env.GITHUB_TOKEN;
+const version = process.env.METRICS_VERSION ?? Date.now().toString();
 
 if (!username || !token) {
   throw new Error("GITHUB_USERNAME and GITHUB_TOKEN are required.");
@@ -102,4 +103,7 @@ function render(totals, repositoryCount) {
 const repositories = await getRepositories();
 const totals = await getLanguageTotals(repositories);
 await writeFile("language-metrics.svg", render(totals, repositories.length));
+const readme = await readFile("README.md", "utf8");
+const versionedReadme = readme.replace(/(src="\.\/(?:github|language)-metrics\.svg)(?:\?v=[^"]*)?"/g, `$1?v=${version}"`);
+await writeFile("README.md", versionedReadme);
 console.log(`Generated language metrics from ${repositories.length} repositories and ${totals.size} languages.`);
