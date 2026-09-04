@@ -56,6 +56,12 @@ The labels below explain how I classify them.
 
 </details>
 
+## GitHub activity
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Dylan's GitHub activity metrics" width="100%" />
+</p>
+
 ## Explore my work
 
 | Collection | What you will find |
