@@ -18,7 +18,7 @@
   <circle cx="28" cy="149" r="6" fill="#663399" />
   <text x="44" y="154" class="label">CSS</text>
   <rect x="210" y="138" width="500" height="12" rx="6" fill="#21262d" />
-  <rect x="210" y="138" width="69.1" height="12" rx="6" fill="#663399" />
+  <rect x="210" y="138" width="69.0" height="12" rx="6" fill="#663399" />
   <text x="770" y="154" class="value" text-anchor="end">13.8%</text>
   <circle cx="28" cy="185" r="6" fill="#e34c26" />
   <text x="44" y="190" class="label">HTML</text>
