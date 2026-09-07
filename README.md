@@ -73,14 +73,6 @@ The labels below explain how I classify them.
 | [**Repositories**](https://github.com/Dyrits?tab=repositories) | More than 200 projects and mini-projects spanning education, experimentation, professional development, and personal interests. |
 | [**Gists**](https://gist.github.com/Dyrits) | Approximately 80 focused examples, snippets, exercises, and technical notes. |
 
-## Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dyrits/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Dylan on LinkedIn" />
-  </a>
-</p>
-
 ## Affiliation
 
 You're learning to code? Check out Scrimba. I've been a member there for 6 years and I'm loving it!
@@ -90,3 +82,11 @@ Their interactive scrims let you pause and edit the code right in the tutorial, 
 Link: [Scrimba](https://scrimba.com/?via=u010muj) 
 
 (I'm a Scrimbassador. I may earn a commission if you subscribe, and my link gets you 20% extra off Pro when you upgrade.)
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dyrits/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Dylan on LinkedIn" />
+  </a>
+</p>
