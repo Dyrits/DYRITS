@@ -89,4 +89,4 @@ Their interactive scrims let you pause and edit the code right in the tutorial, 
 
 Link: [Scrimba](https://scrimba.com/?via=u010muj) 
 
-(I'm a Scrimbassador – I may earn a commission if you subscribe, and my link gets you 20% extra off Pro when you upgrade.)
+(I'm a Scrimbassador. I may earn a commission if you subscribe, and my link gets you 20% extra off Pro when you upgrade.)
