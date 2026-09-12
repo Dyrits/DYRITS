@@ -53,6 +53,7 @@ The labels below explain how I classify them.
 | **Stable** | The project is reliable and usable, although further improvements may be made. |
 | **Completed** | The project is finished and meets its intended goals. |
 | **Archived** | The project is no longer actively developed or maintained. |
+| **Abandoned** | Development stopped before the project reached its intended goals and is not expected to resume. |
 
 </details>
 
