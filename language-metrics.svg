@@ -13,12 +13,12 @@
   <circle cx="28" cy="113" r="6" fill="#f1e05a" />
   <text x="44" y="118" class="label">JavaScript</text>
   <rect x="210" y="102" width="500" height="12" rx="6" fill="#21262d" />
-  <rect x="210" y="102" width="202.5" height="12" rx="6" fill="#f1e05a" />
+  <rect x="210" y="102" width="202.4" height="12" rx="6" fill="#f1e05a" />
   <text x="770" y="118" class="value" text-anchor="end">40.5%</text>
   <circle cx="28" cy="149" r="6" fill="#663399" />
   <text x="44" y="154" class="label">CSS</text>
   <rect x="210" y="138" width="500" height="12" rx="6" fill="#21262d" />
-  <rect x="210" y="138" width="68.9" height="12" rx="6" fill="#663399" />
+  <rect x="210" y="138" width="68.8" height="12" rx="6" fill="#663399" />
   <text x="770" y="154" class="value" text-anchor="end">13.8%</text>
   <circle cx="28" cy="185" r="6" fill="#e34c26" />
   <text x="44" y="190" class="label">HTML</text>
@@ -28,7 +28,7 @@
   <circle cx="28" cy="221" r="6" fill="#3178c6" />
   <text x="44" y="226" class="label">TypeScript</text>
   <rect x="210" y="210" width="500" height="12" rx="6" fill="#21262d" />
-  <rect x="210" y="210" width="43.4" height="12" rx="6" fill="#3178c6" />
+  <rect x="210" y="210" width="43.6" height="12" rx="6" fill="#3178c6" />
   <text x="770" y="226" class="value" text-anchor="end">8.7%</text>
   <circle cx="28" cy="257" r="6" fill="#b07219" />
   <text x="44" y="262" class="label">Java</text>
