@@ -60,11 +60,11 @@ The labels below explain how I classify them.
 ## GitHub activity
 
 <p align="center">
-  <img src="./github-metrics.svg?v=34825158051" alt="Dylan's GitHub activity metrics" width="100%" />
+  <img src="./github-metrics.svg?v=34948269471" alt="Dylan's GitHub activity metrics" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./language-metrics.svg?v=34825158051" alt="Languages used across Dylan's public repositories" width="100%" />
+  <img src="./language-metrics.svg?v=34948269471" alt="Languages used across Dylan's public repositories" width="100%" />
 </p>
 
 ## Explore my work
