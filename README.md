@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dylan J. Gerrits</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer · Software Architect · Computer Science Teacher & Mentor</strong>
+  <strong>AI Systems Engineer · Full-Stack Developer · Software Architect · Computer Science Teacher & Mentor</strong>
 </p>
 
 <p align="center">
